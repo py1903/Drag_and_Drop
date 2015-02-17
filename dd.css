@@ -1,0 +1,26 @@
+
+body, table {
+    font-family: "Helvetica Neue",Helvetica,verdana,corbel;
+    font-size: 13px;
+}
+h2{
+    text-align:center;
+}
+#block{
+    margin-left:20%;
+}
+#liste li {
+    float: left;
+    width: 250px;
+    height: 250px;
+    background-color: black;
+    border: 1px solid #000000;
+    border-radius: 2px 2px 2px 2px;
+    box-shadow: 1px 1px 12px #555555;
+    cursor: move;
+    list-style-type: none;
+    margin: 4px 4px 0 0;
+    padding: 2px;
+    text-align: center;
+    left:10%;
+}
